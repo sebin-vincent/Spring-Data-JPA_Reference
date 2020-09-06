@@ -1,6 +1,6 @@
 # Spring-Data-JPA_Reference
 
-This project can be use as reference for JPA relations mapping and best practices.
+This project can be used as a reference for JPA relations mapping and best practices.
 The project contains detailed example for following scenarios
 
 1. OneToOne <br />
