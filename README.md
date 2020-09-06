@@ -4,11 +4,11 @@ This project can be use as reference for JPA relations mapping and best practice
 The project contains detailed example for following scenarios
 
 1. OneToOne
-  a.UniDirectional OneToOne
-  b.BiDirectional OneToOne
+  a.UniDirectional OneToOne <br />
+  b.BiDirectional OneToOne <br />
 2. OneToMany
-  a. UniDirectional OneToMany
-  b. UniDirectional ManytoOne
-  c. BiDirectional OneToMany
+  a. UniDirectional OneToMany <br />
+  b. UniDirectional ManytoOne <br />
+  c. BiDirectional OneToMany <br />
 3. ManyToMany
-  a. BiDirectional OneToMAny alternative for ManyToMany relation with EmbeddedId and MapsId
+  a. BiDirectional OneToMAny alternative for ManyToMany relation with EmbeddedId and MapsId <br />
